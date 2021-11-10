@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixturePricing.Service", "FixturePricing.Service/FixturePricing.Service.csproj", "{D8B3C6B1-8B44-43F8-83E6-2550EEA0521B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixturePricing.Contract", "FixturePricing.Contract/FixturePricing.Contract.csproj", "{2C5ADA0D-0543-49BC-AE63-1F7172077161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B3C6B1-8B44-43F8-83E6-2550EEA0521B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B3C6B1-8B44-43F8-83E6-2550EEA0521B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B3C6B1-8B44-43F8-83E6-2550EEA0521B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B3C6B1-8B44-43F8-83E6-2550EEA0521B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5ADA0D-0543-49BC-AE63-1F7172077161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5ADA0D-0543-49BC-AE63-1F7172077161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5ADA0D-0543-49BC-AE63-1F7172077161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5ADA0D-0543-49BC-AE63-1F7172077161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
